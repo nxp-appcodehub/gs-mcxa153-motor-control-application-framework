@@ -175,7 +175,7 @@ Questions regarding the content/correctness of this example can be entered as Is
 [![Follow us on Facebook](https://img.shields.io/badge/Facebook-Follow%20us%20on%20Facebook-blue.svg)](https://www.facebook.com/nxpsemi/)
 [![Follow us on Twitter](https://img.shields.io/badge/X-Follow%20us%20on%20X-black.svg)](https://x.com/NXP)
 
-## 7. Release Notes<a name="step7"></a>
+## 8. Release Notes<a name="step8"></a>
 | Version | Description / Update                           | Date                        |
 |:-------:|------------------------------------------------|----------------------------:|
 | 1.0     | Initial release on Application Code Hub        | April 4<sup>th</sup> 2025 |
